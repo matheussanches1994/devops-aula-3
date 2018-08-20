@@ -1,2 +1,5 @@
 # devops-aula-3
-k
+ Mercurial
+  GitHub
+  Subversion
+  CVS
