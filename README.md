@@ -1,6 +1,5 @@
 # devops-aula-3
  Mercurial
-  GitHub
+   GitLab
   Subversion
   CVS
-kkk
